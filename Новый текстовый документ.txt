@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>SENSE [LYRICS]</title>
+		<link href="style.css" rel="stylesheet" type="text/css"/>
+		<link rel="shortcut icon" href="pictures/mainlogo.png" type="image/png">
+	</head>
+		<body>
+		
+			<div class="page_header">
+				<h2>SENSE [LYRICS]</h2>
+				<h2 class="header"><a href="toplist.html"/>TOP LIST</h2>
+				<h2 class="header"><a href="news.html"/>NEWS</h2>
+				<h2 class="header"><a href="videos.html"/>VIDEOS</h2>
+			</div>
+			
+			<div class="container">
+				<div class="card"><a class="link" href="archive/Eminem/EminemKamikaze.html"/>
+					<div class="card-item">
+						<img class="picture" src="archive/Eminem/kamikaze.jpg"/>
+						Eminem - Kamikaze
+					</div>
+				</div>
+					
+				<div class="card"><a class="link" href="archive/Linkin Park/LinkinParkFromtheinside.html"/>
+					<div class="card-item">
+						<img class="picture" src="archive/Linkin Park/hybridtheory.jpg"/>
+						Linkin Park - From the inside
+					</div>
+				</div>
+					
+				<div class="card"><a class="link" href="archive/Sabaton/SabatonTheattackofthedeadman.html"/>
+					<div class="card-item">
+						<img class="picture" src="archive/Sabaton/thegreatwar.jpg"/>
+						Sabaton - The attack of the dead man
+					</div>
+				</div>
+
+				<div class="card"><a class="link" href="archive/Король и шут/КорольишутТанецзлобногогения.html"/>
+					<div class="card-item">
+						<img class="picture" src="archive/Король и шут/театръдемона.jpg"/>
+						Король и шут - Танец злобного гения
+					</div>
+				</div>
+					
+				<div class="card"><a class="link" href="archive/D12/D12Purplehills.html"/>
+					<div class="card-item">
+						<img class="picture" src="archive/D12/d12.jpg"/>
+						D12 - Purple hills
+					</div>
+				</div>
+					
+				<div class="card"><a class="link" href="archive/Eminem/EminemSuperman.html"/>
+					<div class="card-item">
+						<img class="picture" src="archive/Eminem/show2002.jpg"/>
+						Eminem - Superman
+					</div>
+				</div>
+
+				<div class="card"><a class="link" href="archive/A$AP Rocky/A$APRockyBabushkaboi.html"/>
+					<div class="card-item">
+						<img class="picture" src="archive/A$AP Rocky/babushka.jpg"/>
+						A$AP Rocky - Babushka boi
+					</div>
+				</div>
+							
+				<div class="card"><a class="link" href="archive/System of a down/SystemofadownFckthesystem.html"/>
+					<div class="card-item">
+						<img class="picture" src="archive/System of a down/cd-36.jpg"/>
+						System of a down - F**ck the system
+					</div>
+				</div>
+
+				<div class="card"><a class="link" href="archive/Кузьма/КузьмаБалдёж.html"/>
+					<div class="card-item">
+						<img class="picture" src="archive/Кузьма/балдеж.jpg"/>
+						Кузьма - Балдёж
+					</div>
+				</div>
+			</div>
+			
+			<script src="main.js"></script>
+		</body>
+</html>
